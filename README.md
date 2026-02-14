@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18643393.svg)](https://doi.org/10.5281/zenodo.18643393)
+
 # Collatz Structural Simulator
 
 This repository provides a PHP implementation of the structural reformulation of the Collatz conjecture developed in:
